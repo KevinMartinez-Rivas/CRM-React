@@ -1,0 +1,50 @@
+{
+  "clients": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Hi",
+      "id": 1
+    },
+    {
+      "nombre": "Monica",
+      "empresa": "AppStore",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "Hi",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Apple"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "AppStore"
+    },
+    {
+      "nombre": "Carl",
+      "empresa": "Juniors",
+      "email": "correo@gmail.com",
+      "telefono": "75777577",
+      "notas": "Hey!",
+      "id": 7
+    },
+    {
+      "nombre": "Carl Jhonson",
+      "empresa": "RockStar",
+      "email": "gmail@correo.com",
+      "telefono": "90909090",
+      "notas": "SD",
+      "id": 8
+    }
+  ]
+}
